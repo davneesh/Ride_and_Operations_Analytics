@@ -31,20 +31,22 @@ To identify patterns and inefficiencies affecting **customer experience**, **ope
 
 ## Dashboard Previews
 
-### 1. Revenue Dashboard  
-![Revenue Dashboard](Revenue%20DashBoard.png)
 
-### 2. Cancellation Dashboard  
-![Cancellation Dashboard](Cancellation%20DashBoard.png)
+### 1. Overall Dashboard  
+![Overall Dashboard](Overall%20DashBoard.png)
 
-### 3. Ratings Dashboard  
-![Ratings Dashboard](Ratings%20DashBoard.png)
-
-### 4. Vehicle Type Dashboard  
+### 2. Vehicle Type Dashboard  
 ![Vehicle Type Dashboard](Vehicle%20Type%20DashBoard.png)
 
-### 5. Overall Dashboard  
-![Overall Dashboard](Overall%20DashBoard.png)
+### 3. Revenue Dashboard  
+![Revenue Dashboard](Revenue%20DashBoard.png)
+
+### 4. Cancellation Dashboard  
+![Cancellation Dashboard](Cancellation%20DashBoard.png)
+
+### 5. Ratings Dashboard  
+![Ratings Dashboard](Ratings%20DashBoard.png)
+
 
 
 
