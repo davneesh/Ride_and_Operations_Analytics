@@ -22,9 +22,13 @@ To identify patterns and inefficiencies affecting **customer experience**, **ope
 
 ---
 
-## 🛠 Tools & Technologies  
+## Tools & Technologies  
 - **SQL Server** – Querying and performance insights  
 - **Microsoft Excel** – Data cleaning and formatting  
 - **Power BI** – Dashboard design and data visualization
+
+---
+
+
 
 
